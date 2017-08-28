@@ -1,4 +1,4 @@
-# QML_JoyPad
+# QML JoyPad
 A simple qml Joystick Component.
 This creates a virtual joystick on the screen.
 
