@@ -16,4 +16,4 @@ and call it like follows:
         anchors.bottom: parent.bottom
     }
     
-This will display the pad on the bottom corner of your App, to acces to the values use joyPad.xValue and joyPad.yValue, both go from -1 to 1. Where 0,0 is center.
+This will display the pad on the bottom corner of your App, to acces values use joyPad.xValue and joyPad.yValue, both go from -1 to 1. Where 0,0 is center.
